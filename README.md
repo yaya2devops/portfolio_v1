@@ -154,7 +154,7 @@ If you want to add your own custom sections, there is a section template you can
 
 ## Feedback
 
-Designing and building a portfolio from scratch can be tough. To inspire you and provide you a foundation to build upon, I've decided to publish [my personal website](https://konstantin.digital) as a Gatsby Starter. This boilerplate project should motivate you to build your own awesome portfolio with Gatsby.
+Designing and building a portfolio from scratch can be tough. To inspire you and provide you a foundation to build upon, I've decided to publish my personal website as a Gatsby Starter. This boilerplate project should motivate you to build your own awesome portfolio with Gatsby.
 
 If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
 
