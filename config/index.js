@@ -100,7 +100,7 @@ module.exports = {
     {
       name: "Copyright",
       url:
-      "https://github.com/Y4HYA4",
+      "https://github.com/Y4HYA4/portfolio_v1/blob/master/LICENSE",
     },
   ],
 }
