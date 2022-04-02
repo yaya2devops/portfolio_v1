@@ -6,7 +6,7 @@ module.exports = {
   siteDescription: "This is the portfolio site for Yahya Abulhaj.",
   siteUrl: "https://folio.Yahya-Abulhaj.dev/",
   siteLanguage: "en_US",
-  siteIcon: "content/avatar.png", // Relative to gatsby-config file
+  siteIcon: "avatar.png", // Relative to gatsby-config file
   seoTitleSuffix: "Yahya Abulhaj", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
   // -- THEME SETTINGS -----
