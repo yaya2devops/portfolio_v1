@@ -4,9 +4,9 @@ module.exports = {
   siteTitle: "Yahya Abulhaj | Portfolio",
   siteShortTitle: "Yahya", // Used as logo text in header, footer, and splash screen
   siteDescription: "This is the portfolio site for Yahya Abulhaj.",
-  siteUrl: "https://folio.Yahya-Abulhaj.dev/",
+  siteUrl: "https://www.itzyahya.tech/",
   siteLanguage: "en_US",
-  siteIcon: "avatar.png", // Relative to gatsby-config file
+  siteIcon: "clean.png", // Relative to gatsby-config file
   seoTitleSuffix: "Yahya Abulhaj", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
   // -- THEME SETTINGS -----
@@ -99,8 +99,7 @@ module.exports = {
     },
     {
       name: "Copyright",
-      url:
-      "https://github.com/Y4HYA4/portfolio_v1/blob/master/LICENSE",
+      url: "https://github.com/Y4HYA4/portfolio_v1/blob/master/LICENSE",
     },
   ],
 }
