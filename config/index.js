@@ -66,8 +66,8 @@ module.exports = {
       url: "https://github.com/Y4HYA4/",
     },
     {
-      name: "Twitter",
-      url: "https://twitter.com/AbulhajYahya/",
+      name: "CloudBoost",
+      url: "https://cloud.itzyahya.tech/",
     },
   ],
 
