@@ -54,6 +54,11 @@ module.exports = {
   // Medium, GitHub, LinkedIn, XING, Behance
   socialMedia: [
     {
+      name: "Home",
+      url: "https://home.itzyahya.tech/",
+    },
+    
+    {
       name: "LinkedIn",
       url: "https://www.linkedin.com/in/yahya-abulhaj/",
     },
@@ -65,10 +70,7 @@ module.exports = {
       name: "Github",
       url: "https://github.com/Y4HYA4/",
     },
-    {
-      name: "CloudBoost",
-      url: "https://cloud.itzyahya.tech/",
-    },
+  
   ],
 
   //-- NAVIGATION SETTINGS -----
