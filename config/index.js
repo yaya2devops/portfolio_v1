@@ -1,6 +1,6 @@
 module.exports = {
   //-- SITE SETTINGS -----
-  author: "@Y4HYA4",
+  author: "@yaya2devops",
   siteTitle: "Yahya Abulhaj | Portfolio",
   siteShortTitle: "Yahya", // Used as logo text in header, footer, and splash screen
   siteDescription: "This is the portfolio site for Yahya Abulhaj.",
@@ -68,7 +68,7 @@ module.exports = {
     },
     {
       name: "Github",
-      url: "https://github.com/Y4HYA4/",
+      url: "https://github.com/yaya2devops/",
     },
   
   ],
